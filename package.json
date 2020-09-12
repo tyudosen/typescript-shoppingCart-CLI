@@ -1,0 +1,24 @@
+{
+  "name": "dealerOn-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/numeral": "0.0.28",
+    "chalk": "^4.1.0",
+    "numeral": "^2.0.6",
+    "ts-node": "^9.0.0",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^14.10.1",
+    "@types/yargs": "^15.0.5"
+  }
+}

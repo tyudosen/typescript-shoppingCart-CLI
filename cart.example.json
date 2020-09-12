@@ -1,0 +1,19 @@
+{
+    "item": "Book",
+    "price": 12.49,
+    "salesTax": false,
+    "imported": false,
+    "quantity": 2
+}, {
+    "item": "Music CD",
+    "price": 14.99,
+    "salesTax": true,
+    "imported": false,
+    "quantity": 1
+}, {
+    "item": "Chocolate bar",
+    "price": 0.85,
+    "salesTax": false,
+    "imported": false,
+    "quantity": 1
+}
