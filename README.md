@@ -1,6 +1,6 @@
 # Toyoabasi Udosen (Question 2)
 
-I went with a simple CLI implementation of a solution. I used the libary `yargs` to control taking user input and running my functions.
+I went with a simple CLI implementation. I used the libary `yargs` to control taking user input and running my functions.
 the shopping cart is saved in the form of JSON making it easy to parse and perform the necessary calculations.
 
 # How to run
